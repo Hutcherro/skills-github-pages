@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
+title: Prosty tytuł
 ---
-prosta modyfikacja
+
 
 
